@@ -67,6 +67,8 @@ Renewable forecasting | Microgrid systems | Energy data modeling
 ---
 
 ## 📂 Featured Projects
+🔹 Optimization of hybrid renewable power forecasting 
+https://github.com/Jess1357992/Optimization_of_hybrid_renewable_power_forecasting_model_for_microgrid_applications
 
 🔹 Electricity Monitoring IoT System  
 https://github.com/Jess1357992/Arduinocloud_electricity_monitor  
