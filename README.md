@@ -14,6 +14,19 @@
 - AI-driven energy optimization  
 
 ---
+## 📂 Featured Projects
+🔹 Optimization of hybrid renewable power forecasting 
+https://github.com/Jess1357992/Optimization_of_hybrid_renewable_power_forecasting_model_for_microgrid_applications
+
+🔹 Electricity Monitoring IoT System  
+https://github.com/Jess1357992/Arduinocloud_electricity_monitor  
+
+🔹 Arduino-based Energy Prototype  
+https://github.com/Jess1357992/Arduino_electric_candle  
+
+(More AI & Renewable Energy projects will be added.)
+
+---
 
 ## ☀️ Solar Power Forecasting
 
@@ -63,20 +76,6 @@ Deep Learning | YOLO | XGBoost | GRNN | Optimization Algorithms
 
 **Energy Domain:**  
 Renewable forecasting | Microgrid systems | Energy data modeling  
-
----
-
-## 📂 Featured Projects
-🔹 Optimization of hybrid renewable power forecasting 
-https://github.com/Jess1357992/Optimization_of_hybrid_renewable_power_forecasting_model_for_microgrid_applications
-
-🔹 Electricity Monitoring IoT System  
-https://github.com/Jess1357992/Arduinocloud_electricity_monitor  
-
-🔹 Arduino-based Energy Prototype  
-https://github.com/Jess1357992/Arduino_electric_candle  
-
-(More AI & Renewable Energy projects will be added.)
 
 ---
 
